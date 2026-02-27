@@ -6,7 +6,7 @@ author_profile: true
 published: true
 ---
 
-The dagger($^\dagger$) means that authors are sorted in alphabetical order.
+The dagger($^\dagger$) denotes the publication with authors are sorted in alphabetical order.
 
 
 ### 2023

@@ -6,10 +6,10 @@
     * about.md
     * publications.md
 * _sass/
-    * _sidebar.scss `avatar`
+    * _sidebar.scss `profile picture resize reshape`
 * assets/
     * css/
     * font/
-* files/ `打算上传的文件` 
-* images/ `打算上传的图片`
+* files/ `my files` 
+* images/ `my pics`
 * _config.yml

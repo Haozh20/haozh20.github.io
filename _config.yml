@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zihan Hao / Home"
 title_separator          : "-"
 name                     : &name "Zihan Hao"
-description              : &description "A senior-year undergraduate student, broadly interested in Quantum and Cryptography"
+description              : &description ""
 url                      : https://haozh20.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Haozh20/Haozh20.github.io"
@@ -83,7 +83,7 @@ author:
   name             : "Zihan Hao"
   avatar           : "profile.png"
   bio              : "Carpe Diem!"
-  location         : "Beijing, China"
+  location         : "UC San Diego"
   employer         :
   pubmed           :
   googlescholar    : # not yet
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : # "https://orcid.org/0009-0006-7381-6280"
+  orcid            : "https://orcid.org/0009-0006-7381-6280"
   pinterest        :
   soundcloud       :
   stackoverflow    :

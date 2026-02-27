@@ -8,11 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Zihan Hao (郝梓涵), a senior-year undergraduate student majoring in Computer Science at [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/), a pilot class led by Prof. [Andrew Yao](https://iiis.tsinghua.edu.cn/yao/) at [Tsinghua University](https://iiis.tsinghua.edu.cn/yao/).
+Hello! I am a second-year PhD student at UC San Diego, where I am fortunate to be advised by [Qipeng Liu](https://sites.google.com/view/qipengliu/), and be part of the [UCSD Theory Group](https://cstheory.ucsd.edu/). Before that, I completed my Bachelor’s degree in Yao Class, Tsinghua University.
 
-Here is my [CV](../files/CV_Feb.pdf).
+My research focuses on the intersection of quantum information and cryptography, while I am broadly interested in theoretical computer science and quantum information theory. Currently, I am particularly interested in understanding random unitaries and random functions through oracle purification techniques, such as compressed oracles and path recording methods.
+
+Outside research, I like photographing, hiking, skateboarding, and I am a huge fan of Studio Ghibli's movie ：）
+
+<!-- If you are interested in any topics above, feel free to reach out to my email: z1hao at ucsd at ucsd dot edu. ：） -->
+
+
 
 ----
 <br/>
-<p style='text-align: right;'> Latest update in Feb. 2024 </p>
-
+<p style='text-align: right;'> Latest update in Feb. 2026 </p>

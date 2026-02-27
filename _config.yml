@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zihan Hao / Home"
+title                    : "Zihan Hao"
 title_separator          : "-"
 name                     : &name "Zihan Hao"
 description              : &description ""
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zihan Hao"
+  name             : "Zihan Hao 郝梓涵"
   avatar           : "profile.png"
   bio              : "Carpe Diem!"
   location         : "UC San Diego"
   employer         :
   pubmed           :
-  googlescholar    : # not yet
+  googlescholar    : "https://scholar.google.com/citations?user=vmXFkEEAAAAJ"
   email            :  
   researchgate     : # not yet
   uri              :

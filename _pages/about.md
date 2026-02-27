@@ -12,7 +12,7 @@ Hello! I am a second-year PhD student at UC San Diego, where I am fortunate to b
 
 My research focuses on the intersection of quantum information and cryptography, while I am broadly interested in theoretical computer science and quantum information theory. Currently, I am particularly interested in understanding random unitaries and random functions through oracle purification techniques, such as compressed oracles and path recording methods.
 
-Outside research, I like photographing, hiking, skateboarding, and I am a huge fan of Studio Ghibli's movie ：）
+Outside research, I like photographing, hiking, skateboarding, and I am a huge fan of Studio Ghibli's movie :)
 
 <!-- If you are interested in any topics above, feel free to reach out to my email: z1hao at ucsd at ucsd dot edu. ：） -->
 

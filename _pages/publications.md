@@ -13,7 +13,7 @@ Authors are in alphabetical order except the publications denoted with dagger($^
 
 **4. On the Need for (Quantum) Memory with Short Outputs**  
 *Zihan Hao* , [Zikuan Huang](https://zikuanhuang.github.io/) , [Qipeng Liu](https://sites.google.com/view/qipengliu/)  
-*STOC 2026*
+[[ECCC]](https://eccc.weizmann.ac.il/report/2026/031/)  *STOC 2026*
 
 ### 2024
 
